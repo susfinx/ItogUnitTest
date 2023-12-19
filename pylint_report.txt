@@ -1,0 +1,6 @@
+************* Module calc_aver.average_module
+calc_aver/average_module.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 8.18/10, +0.91)
+
